@@ -24,9 +24,10 @@ my %WriteMakefileArgs = (
   'NAME' => 'MouseX::POE',
   'PREREQ_PM' => {
     'Mouse' => '0.92',
+    'MouseX::NativeTraits' => '1.04',
     'POE' => '1.311'
   },
-  'VERSION' => '0.213',
+  'VERSION' => '0.214',
   'test' => {
     'TESTS' => 't/*.t'
   }

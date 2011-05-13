@@ -1,6 +1,6 @@
 package MouseX::POE;
 BEGIN {
-  $MouseX::POE::VERSION = '0.213';
+  $MouseX::POE::VERSION = '0.214';
 }
 # ABSTRACT: The Illicit Love Child of Mouse and POE
 
@@ -54,7 +54,7 @@ MouseX::POE - The Illicit Love Child of Mouse and POE
 
 =head1 VERSION
 
-version 0.213
+version 0.214
 
 =head1 SYNOPSIS
 

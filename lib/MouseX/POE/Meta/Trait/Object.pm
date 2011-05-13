@@ -1,6 +1,6 @@
 package MouseX::POE::Meta::Trait::Object;
 BEGIN {
-  $MouseX::POE::Meta::Trait::Object::VERSION = '0.213';
+  $MouseX::POE::Meta::Trait::Object::VERSION = '0.214';
 }
 # ABSTRACT: The base class role for MouseX::POE
 
@@ -97,7 +97,7 @@ MouseX::POE::Meta::Trait::Object - The base class role for MouseX::POE
 
 =head1 VERSION
 
-version 0.213
+version 0.214
 
 =head1 SYNOPSIS
 

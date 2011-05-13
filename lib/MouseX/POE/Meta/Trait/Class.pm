@@ -1,6 +1,6 @@
 package MouseX::POE::Meta::Trait::Class;
 BEGIN {
-  $MouseX::POE::Meta::Trait::Class::VERSION = '0.213';
+  $MouseX::POE::Meta::Trait::Class::VERSION = '0.214';
 }
 # ABSTRACT: No achmed inside
 use Mouse::Role;
@@ -55,7 +55,7 @@ MouseX::POE::Meta::Trait::Class - No achmed inside
 
 =head1 VERSION
 
-version 0.213
+version 0.214
 
 =head1 METHODS
 

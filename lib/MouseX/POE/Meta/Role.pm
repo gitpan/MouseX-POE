@@ -1,6 +1,6 @@
 package MouseX::POE::Meta::Role;
 BEGIN {
-  $MouseX::POE::Meta::Role::VERSION = '0.213';
+  $MouseX::POE::Meta::Role::VERSION = '0.214';
 }
 # ABSTRACT: Pay no attention to this.
 use Mouse::Role;
@@ -34,7 +34,7 @@ MouseX::POE::Meta::Role - Pay no attention to this.
 
 =head1 VERSION
 
-version 0.213
+version 0.214
 
 =head1 AUTHORS
 

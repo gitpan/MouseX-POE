@@ -1,6 +1,6 @@
 package MouseX::POE::Role;
 BEGIN {
-  $MouseX::POE::Role::VERSION = '0.213';
+  $MouseX::POE::Role::VERSION = '0.214';
 }
 # ABSTRACT: Eventful roles
 use MouseX::POE::Meta::Role;
@@ -53,7 +53,7 @@ MouseX::POE::Role - Eventful roles
 
 =head1 VERSION
 
-version 0.213
+version 0.214
 
 =head1 SYNOPSIS
 

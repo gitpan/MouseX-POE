@@ -20,8 +20,9 @@ meta-spec:
 name: MouseX-POE
 requires:
   Mouse: 0.92
+  MouseX::NativeTraits: 1.04
   POE: 1.311
 resources:
   homepage: http://github.com/bingos/mousex-poe
   repository: http://github.com/bingos/mousex-poe
-version: 0.213
+version: 0.214

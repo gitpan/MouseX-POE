@@ -1,6 +1,6 @@
 package MouseX::POE::Meta::Trait;
 BEGIN {
-  $MouseX::POE::Meta::Trait::VERSION = '0.213';
+  $MouseX::POE::Meta::Trait::VERSION = '0.214';
 }
 # ABSTRACT: There be dragons here.
 use Mouse::Role;
@@ -51,7 +51,7 @@ MouseX::POE::Meta::Trait - There be dragons here.
 
 =head1 VERSION
 
-version 0.213
+version 0.214
 
 =begin comment
 

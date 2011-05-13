@@ -1,6 +1,6 @@
 package MouseX::POE::Meta::Trait::Instance;
 BEGIN {
-  $MouseX::POE::Meta::Trait::Instance::VERSION = '0.213';
+  $MouseX::POE::Meta::Trait::Instance::VERSION = '0.214';
 }
 # ABSTRACT: A Instance Metaclass for MouseX::POE
 
@@ -52,7 +52,7 @@ MouseX::POE::Meta::Trait::Instance - A Instance Metaclass for MouseX::POE
 
 =head1 VERSION
 
-version 0.213
+version 0.214
 
 =head1 SYNOPSIS
 

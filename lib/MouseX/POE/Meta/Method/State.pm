@@ -1,6 +1,6 @@
 package MouseX::POE::Meta::Method::State;
 BEGIN {
-  $MouseX::POE::Meta::Method::State::VERSION = '0.213';
+  $MouseX::POE::Meta::Method::State::VERSION = '0.214';
 }
 # ABSTRACT: Dont look into this, its boring
 use strict;
@@ -19,7 +19,7 @@ MouseX::POE::Meta::Method::State - Dont look into this, its boring
 
 =head1 VERSION
 
-version 0.213
+version 0.214
 
 =head1 AUTHORS
 

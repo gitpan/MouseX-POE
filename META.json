@@ -26,6 +26,7 @@
       "runtime" : {
          "requires" : {
             "Mouse" : "0.92",
+            "MouseX::NativeTraits" : "1.04",
             "POE" : "1.311"
          }
       },
@@ -45,6 +46,6 @@
          "web" : "http://github.com/bingos/mousex-poe"
       }
    },
-   "version" : "0.213"
+   "version" : "0.214"
 }
 
