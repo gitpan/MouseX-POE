@@ -1,0 +1,50 @@
+{
+   "abstract" : "The Illicit Love Child of Mouse and POE",
+   "author" : [
+      "Chris Prather <chris@prather.org>",
+      "Ash Berlin <ash@cpan.org>",
+      "Chris Williams <chris@bingosnet.co.uk>",
+      "Yuval (nothingmuch) Kogman",
+      "Torsten Raudssus <torsten@raudssus.de> L<http://www.raudssus.de/>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 4.200006, CPAN::Meta::Converter version 2.110930",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "MouseX-POE",
+   "prereqs" : {
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.30"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Mouse" : "0.92",
+            "POE" : "1.311"
+         }
+      },
+      "test" : {
+         "requires" : {
+            "Test::Fatal" : "0.003",
+            "Test::More" : "0.90"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "homepage" : "http://github.com/bingos/mousex-poe",
+      "repository" : {
+         "type" : "git",
+         "url" : "http://github.com/bingos/mousex-poe",
+         "web" : "http://github.com/bingos/mousex-poe"
+      }
+   },
+   "version" : "0.213"
+}
+
